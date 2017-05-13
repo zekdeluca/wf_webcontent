@@ -1,0 +1,4 @@
+.env
+.lock-waf_darwin_build
+build/
+src/pkjs/config.js
